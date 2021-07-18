@@ -6,7 +6,7 @@
  *
  * Description: Platform types for AVR
  *
- * Author: Mohamed Tarek
+ * Author: Ahmed Nabil
  *
  *******************************************************************************/
 
